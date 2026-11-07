@@ -4,7 +4,7 @@
    ⚠️ Bumper la version du CACHE à CHAQUE déploiement
       (renalquest-v1 -> v2 -> v3 ...). */
 
-const CACHE = "renalquest-v1";
+const CACHE = "renalquest-v2";
 const ASSETS = [
   "index.html",
   "theme-saisonnier.js",
